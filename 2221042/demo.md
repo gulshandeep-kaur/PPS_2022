@@ -1,2 +1,2 @@
 [click](https://github.com/gulshandeep-kaur)
-![picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.remove.bg%2F&psig=AOvVaw3nQ7TT45YCkrH0L8LJcTXG&ust=1666341790343000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLjYwYW17voCFQAAAAAdAAAAABAE)
+![picture](https://static.remove.bg/remove-bg-web/c05ac62d076574fad1fbc81404cd6083e9a4152b/assets/start-1abfb4fe2980eabfbbaaa4365a0692539f7cd2725f324f904565a9a744f8e214.jpg)
