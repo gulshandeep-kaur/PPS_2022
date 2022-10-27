@@ -1,5 +1,5 @@
-## Program 2:write a code to display the addition of two numbers.
-'''
+## Program 2:Write a code to display the addition of two numbers.
+```C
 #include<stdio.h>
 int main()
 {
@@ -10,5 +10,5 @@ z=x+y;
 printf("%d",z);
 return 0;
 }
-'''
-**output:70**
+```C
+**Output :70"
