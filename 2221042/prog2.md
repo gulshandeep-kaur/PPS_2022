@@ -11,4 +11,4 @@ printf("%d",z);
 return 0;
 }
 ```C
-**Output :70"
+**Output :70**
