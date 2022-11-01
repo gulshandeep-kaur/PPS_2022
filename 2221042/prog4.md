@@ -12,4 +12,5 @@ int main()
  return 0;
 }
 ```C
-**Output:usern-name and roll no.:**
+**Output: user-name:**
+**roll-no.:**
