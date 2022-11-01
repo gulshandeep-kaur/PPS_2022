@@ -1,4 +1,4 @@
-## program 5: write a code to display age eligibility for driving.
+## program 5: Write a code to display age eligibility for driving.
 ```C
 #include<stdio.h>
 int main()
@@ -13,4 +13,4 @@ printf("You are not eligible for driving");
 return 0;
 }
 ```C  
-**Output:Enter your age:
+**Output: Enter your age:**
