@@ -12,5 +12,5 @@ else
 printf("You are not eligible for driving");
 return 0;
 }
-```C  
+```  
 **Output: Enter your age:**
