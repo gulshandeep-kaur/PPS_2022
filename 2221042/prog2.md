@@ -10,5 +10,5 @@ z=x+y;
 printf("%d",z);
 return 0;
 }
-```C
+```
 **Output :70**
