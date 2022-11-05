@@ -11,6 +11,6 @@ int main()
   scanf("%d",&b);
  return 0;
 }
-```C
+```
 **Output: user-name:**
 **roll-no.:**
